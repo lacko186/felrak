@@ -1,0 +1,1427 @@
+-- Kaposvár helyi járatok megállói
+-- Generálva: 1355 megálló
+
+
+-- stops12 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1, 'stop12', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (2, 'stop12', 'Kaposvár, Corso', 46.355392023023086, 17.785899639129640);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (3, 'stop12', 'Kaposvár, Zárda u.', 46.358837026377685, 17.787715494632720);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (4, 'stop12', 'Kaposvár, Honvéd u.', 46.363140661458800, 17.787967622280120);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (5, 'stop12', 'Kaposvár, Arany J. tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (6, 'stop12', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (7, 'stop12', 'Kaposvár, Brassó u.', 46.372092987227674, 17.787409722805023);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (8, 'stop12', 'Kaposvár, Sopron u. forduló ', 46.375490674220465, 17.785727977752686);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (9, 'stop12', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (10, 'stop12', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+
+-- stops12Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (11, 'stop12Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (12, 'stop12Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (13, 'stop12Back', 'Kaposvár, Nagyszeben u.', 46.373155249773944, 17.787109315395355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (14, 'stop12Back', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (15, 'stop12Back', 'Kaposvár, Arany J. tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (16, 'stop12Back', 'Kaposvár, Honvéd u.', 46.363140661458800, 17.787967622280120);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (17, 'stop12Back', 'Kaposvár, Somssich P. u.', 46.360545563804600, 17.789102196693420);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (18, 'stop12Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (19, 'stop12Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (20, 'stop12Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (21, 'stop12Back', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops13 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (22, 'stop13', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (23, 'stop13', 'Kaposvár, Berzsenyi utca felűljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (24, 'stop13', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (25, 'stop13', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (26, 'stop13', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (27, 'stop13', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (28, 'stop13', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (29, 'stop13', 'Kaposvár, Mátyás k. u. forduló', 46.366068790536570, 17.758959531784058);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (30, 'stop13', 'Kaposvár, Kecelhegyalja u.', 46.363335, 17.760868);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (31, 'stop13', 'Kaposvár, Kőrösi Cs. S. u.', 46.358625, 17.760430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (32, 'stop13', 'Kaposvár, Kecelhegyi iskola', 46.353500048084380, 17.765681147575380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (33, 'stop13', 'Kaposvár, Bethlen G. u.', 46.352086, 17.762094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (34, 'stop13', 'Kaposvár, Magyar Nobel-díjasok tere', 46.348853138895365, 17.763251066207886);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (35, 'stop13', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (36, 'stop13', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (37, 'stop13', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (38, 'stop13', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (39, 'stop13', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (40, 'stop13', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops20 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (41, 'stop20', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (42, 'stop20', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (43, 'stop20', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (44, 'stop20', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (45, 'stop20', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (46, 'stop20', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (47, 'stop20', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (48, 'stop20', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (49, 'stop20', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (50, 'stop20', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (51, 'stop20', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (52, 'stop20', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (53, 'stop20', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (54, 'stop20', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (55, 'stop20', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (56, 'stop20', 'Kaposvár, Nagyszeben u.', 46.373155249773944, 17.787109315395355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (57, 'stop20', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (58, 'stop20', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (59, 'stop20', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (60, 'stop20', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (61, 'stop20', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (62, 'stop20', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (63, 'stop20', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (64, 'stop20', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+
+-- stops20Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (65, 'stop20Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (66, 'stop20Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (67, 'stop20Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (68, 'stop20Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (69, 'stop20Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (70, 'stop20Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (71, 'stop20Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (72, 'stop20Back', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (73, 'stop20Back', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (74, 'stop20Back', 'Kaposvár, Brassó u.', 46.372092987227674, 17.787409722805023);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (75, 'stop20Back', 'Kaposvár, Sopron u. forduló ', 46.375490674220465, 17.785727977752686);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (76, 'stop20Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (77, 'stop20Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (78, 'stop20Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (79, 'stop20Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (80, 'stop20Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (81, 'stop20Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (82, 'stop20Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (83, 'stop20Back', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (84, 'stop20Back', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (85, 'stop20Back', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (86, 'stop20Back', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (87, 'stop20Back', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (88, 'stop20Back', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (89, 'stop20Back', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (90, 'stop20Back', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+
+-- stops21 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (91, 'stop21', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (92, 'stop21', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (93, 'stop21', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (94, 'stop21', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (95, 'stop21', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (96, 'stop21', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (97, 'stop21', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (98, 'stop21', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (99, 'stop21', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (100, 'stop21', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (101, 'stop21', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (102, 'stop21', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (103, 'stop21', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (104, 'stop21', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (105, 'stop21', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+
+-- stops21Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (106, 'stop21Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (107, 'stop21Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (108, 'stop21Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (109, 'stop21Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (110, 'stop21Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (111, 'stop21Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (112, 'stop21Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (113, 'stop21Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (114, 'stop21Back', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (115, 'stop21Back', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (116, 'stop21Back', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (117, 'stop21Back', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (118, 'stop21Back', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (119, 'stop21Back', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (120, 'stop21Back', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (121, 'stop21Back', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+
+-- stops23 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (122, 'stop23', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (123, 'stop23', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (124, 'stop23', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (125, 'stop23', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (126, 'stop23', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (127, 'stop23', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (128, 'stop23', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (129, 'stop23', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (130, 'stop23', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (131, 'stop23', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (132, 'stop23', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (133, 'stop23', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (134, 'stop23', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (135, 'stop23', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (136, 'stop23', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (137, 'stop23', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (138, 'stop23', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (139, 'stop23', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (140, 'stop23', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (141, 'stop23', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (142, 'stop23', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (143, 'stop23', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (144, 'stop23', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (145, 'stop23', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+
+-- stops23Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (146, 'stop23Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (147, 'stop23Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (148, 'stop23Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (149, 'stop23Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (150, 'stop23Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (151, 'stop23Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (152, 'stop23Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (153, 'stop23Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (154, 'stop23Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (155, 'stop23Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (156, 'stop23Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (157, 'stop23Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (158, 'stop23Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (159, 'stop23Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (160, 'stop23Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (161, 'stop23Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (162, 'stop23Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (163, 'stop23Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (164, 'stop23Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (165, 'stop23Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (166, 'stop23Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (167, 'stop23Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (168, 'stop23Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (169, 'stop23Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops26 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (170, 'stop26', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (171, 'stop26', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (172, 'stop26', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (173, 'stop26', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (174, 'stop26', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (175, 'stop26', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (176, 'stop26', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (177, 'stop26', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (178, 'stop26', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (179, 'stop26', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (180, 'stop26', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (181, 'stop26', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (182, 'stop26', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (183, 'stop26', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (184, 'stop26', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (185, 'stop26', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (186, 'stop26', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (187, 'stop26', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (188, 'stop26', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (189, 'stop26', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (190, 'stop26', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (191, 'stop26', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (192, 'stop26', 'Kaposvár, METYX', 46.365016, 17.848897);
+
+-- stops26Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (193, 'stop26Back', 'Kaposvár, METYX', 46.365016, 17.848897);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (194, 'stop26Back', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (195, 'stop26Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (196, 'stop26Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (197, 'stop26Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (198, 'stop26Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (199, 'stop26Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (200, 'stop26Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (201, 'stop26Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (202, 'stop26Back', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (203, 'stop26Back', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (204, 'stop26Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (205, 'stop26Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (206, 'stop26Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (207, 'stop26Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (208, 'stop26Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (209, 'stop26Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (210, 'stop26Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (211, 'stop26Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (212, 'stop26Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (213, 'stop26Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (214, 'stop26Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (215, 'stop26Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (216, 'stop26Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops27 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (217, 'stop27', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (218, 'stop27', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (219, 'stop27', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (220, 'stop27', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (221, 'stop27', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (222, 'stop27', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (223, 'stop27', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (224, 'stop27', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (225, 'stop27', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (226, 'stop27', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (227, 'stop27', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (228, 'stop27', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (229, 'stop27', 'Kaposvár, Kométa forduló', 46.356947021875070, 17.821197509765625);
+
+-- stops27Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (230, 'stop27Back', 'Kaposvár, Kométa forduló', 46.356947021875070, 17.821197509765625);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (231, 'stop27Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (232, 'stop27Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (233, 'stop27Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (234, 'stop27Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (235, 'stop27Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (236, 'stop27Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (237, 'stop27Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (238, 'stop27Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (239, 'stop27Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (240, 'stop27Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (241, 'stop27Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (242, 'stop27Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+
+-- stops31 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (243, 'stop31', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (244, 'stop31', 'Kaposvár, Berzsenyi u. felüljáró', 46.355326, 17.784669);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (245, 'stop31', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (246, 'stop31', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (247, 'stop31', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (248, 'stop31', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (249, 'stop31', 'Kaposvár, Kapoli A. u.', 46.347679315267825, 17.763312757015230);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (250, 'stop31', 'Kaposvár, Egyenesi u. 42.', 46.345140881766255, 17.763232290744780);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (251, 'stop31', 'Kaposvár, Beszédes J. u.', 46.341809819016056, 17.763240337371826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (252, 'stop31', 'Kaposvár, Egyenesi u. forduló', 46.339085936499174, 17.763682901859283);
+
+-- stops31Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (253, 'stop31Back', 'Kaposvár, Egyenesi u. forduló', 46.339085936499174, 17.763682901859283);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (254, 'stop31Back', 'Kaposvár, Beszédes J. u.', 46.341809819016056, 17.763240337371826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (255, 'stop31Back', 'Kaposvár, Egyenesi u. 42.', 46.345140881766255, 17.763232290744780);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (256, 'stop31Back', 'Kaposvár, Kapoli A. u.', 46.347679315267825, 17.763312757015230);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (257, 'stop31Back', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (258, 'stop31Back', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (259, 'stop31Back', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (260, 'stop31Back', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (261, 'stop31Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (262, 'stop31Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops32 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (263, 'stop32', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (264, 'stop32', 'Kaposvár, Berzsenyi u. felüljáró', 46.355326, 17.784669);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (265, 'stop32', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (266, 'stop32', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (267, 'stop32', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (268, 'stop32', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (269, 'stop32', 'Kaposvár, Magyar Nobel-díjasok tere', 46.348853138895365, 17.763251066207886);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (270, 'stop32', 'Kaposvár, Bethlen G. u.', 46.352086, 17.762094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (271, 'stop32', 'Kaposvár, Kecelhegyi iskola', 46.353500048084380, 17.765681147575380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (272, 'stop32', 'Kaposvár, Kőrösi Cs. S. u.', 46.358625, 17.760430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (273, 'stop32', 'Kaposvár, Kecelhegyi iskola', 46.353500048084380, 17.765681147575380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (274, 'stop32', 'Kaposvár, Mátyás k. u. forduló', 46.366068790536570, 17.758959531784058);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (275, 'stop32', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (276, 'stop32', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (277, 'stop32', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (278, 'stop32', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (279, 'stop32', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (280, 'stop32', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (281, 'stop32', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops33 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (282, 'stop33', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (283, 'stop33', 'Kaposvár, Berzsenyi u. felüljáró', 46.355326, 17.784669);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (284, 'stop33', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (285, 'stop33', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (286, 'stop33', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (287, 'stop33', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (288, 'stop33', 'Kaposvár, Kapoli A. u.', 46.347679315267825, 17.763312757015230);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (289, 'stop33', 'Kaposvár, Egyenesi u. 42.', 46.345140881766255, 17.763232290744780);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (290, 'stop33', 'Kaposvár, Beszédes J. u.', 46.341809819016056, 17.763240337371826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (291, 'stop33', 'Kaposvár, Egyenesi u. forduló', 46.339085936499174, 17.763682901859283);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (292, 'stop33', 'Kaposvár, Beszédes J. u.', 46.341809819016056, 17.763240337371826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (293, 'stop33', 'Kaposvár, Egyenesi u. 42.', 46.345140881766255, 17.763232290744780);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (294, 'stop33', 'Kaposvár, Kapoli A. u.', 46.347679315267825, 17.763312757015230);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (295, 'stop33', 'Kaposvár, Magyar Nobel-díjasok tere', 46.348853138895365, 17.763251066207886);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (296, 'stop33', 'Kaposvár, Bethlen G. u.', 46.352086, 17.762094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (297, 'stop33', 'Kaposvár, Kecelhegyi iskola', 46.353500048084380, 17.765681147575380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (298, 'stop33', 'Kaposvár, Kőrösi Cs. S. u.', 46.358625, 17.760430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (299, 'stop33', 'Kaposvár, Kecelhegyalja u.', 46.363335, 17.760868);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (300, 'stop33', 'Kaposvár, Mátyás k. u. forduló', 46.366068790536570, 17.758959531784058);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (301, 'stop33', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (302, 'stop33', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (303, 'stop33', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (304, 'stop33', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (305, 'stop33', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (306, 'stop33', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (307, 'stop33', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops40 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (308, 'stop40', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (309, 'stop40', 'Kaposvár, Gönczi F. u.', 46.344759458522690, 17.774610221385956);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (310, 'stop40', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (311, 'stop40', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (312, 'stop40', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (313, 'stop40', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (314, 'stop40', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (315, 'stop40', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (316, 'stop40', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (317, 'stop40', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (318, 'stop40', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (319, 'stop40', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (320, 'stop40', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (321, 'stop40', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (322, 'stop40', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (323, 'stop40', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (324, 'stop40', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+
+-- stops40Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (325, 'stop40Back', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (326, 'stop40Back', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (327, 'stop40Back', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (328, 'stop40Back', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (329, 'stop40Back', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (330, 'stop40Back', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (331, 'stop40Back', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (332, 'stop40Back', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (333, 'stop40Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (334, 'stop40Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (335, 'stop40Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (336, 'stop40Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (337, 'stop40Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (338, 'stop40Back', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (339, 'stop40Back', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (340, 'stop40Back', 'Kaposvár, Erdősor u.', 46.345687090029300, 17.773953080177307);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (341, 'stop40Back', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+
+-- stops41 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (342, 'stop41', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (343, 'stop41', 'Kaposvár, Gönczi F. u.', 46.344759458522690, 17.774610221385956);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (344, 'stop41', 'Kaposvár, Szegfű utca', 46.345566739524855, 17.783179879188538);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (345, 'stop41', 'Kaposvár, Jókai utca', 46.345764854829700, 17.787168323993683);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (346, 'stop41', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (347, 'stop41', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (348, 'stop41', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (349, 'stop41', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (350, 'stop41', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (351, 'stop41', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (352, 'stop41', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (353, 'stop41', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (354, 'stop41', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (355, 'stop41', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (356, 'stop41', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (357, 'stop41', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (358, 'stop41', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (359, 'stop41', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+
+-- stops41Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (360, 'stop41Back', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (361, 'stop41Back', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (362, 'stop41Back', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (363, 'stop41Back', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (364, 'stop41Back', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (365, 'stop41Back', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (366, 'stop41Back', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (367, 'stop41Back', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (368, 'stop41Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (369, 'stop41Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (370, 'stop41Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (371, 'stop41Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (372, 'stop41Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (373, 'stop41Back', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (374, 'stop41Back', 'Kaposvár, Jókai utca', 46.345764854829700, 17.787168323993683);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (375, 'stop41Back', 'Kaposvár, Szegfű utca', 46.345566739524855, 17.783179879188538);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (376, 'stop41Back', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (377, 'stop41Back', 'Kaposvár, Erdősor u.', 46.345687090029300, 17.773953080177307);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (378, 'stop41Back', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+
+-- stops42 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (379, 'stop42', 'Kaposvár, Töröcske forduló', 46.313599675140970, 17.779864668846130);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (380, 'stop42', 'Kaposvár, Fenyves utca 31', 46.305945922572850, 17.783346176147460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (381, 'stop42', 'Kaposvár, Fenyves utca 37/A', 46.307659818792430, 17.782949209213257);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (382, 'stop42', 'Kaposvár, Szőlőhegy', 46.312925313409810, 17.786090075969696);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (383, 'stop42', 'Kaposvár, Kertbarát alsó', 46.320153890054550, 17.784829437732697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (384, 'stop42', 'Kaposvár, Kertbarát felső', 46.325108859259660, 17.787289023399353);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (385, 'stop42', 'Kaposvár, Gyertyános', 46.330263403253590, 17.789416015148163);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (386, 'stop42', 'Kaposvár, Harangvirág u.', 46.334783, 17.790026);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (387, 'stop42', 'Kaposvár, Aranyeső utca.', 46.337669315816115, 17.790381610393524);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (388, 'stop42', 'Kaposvár, Zichy M. u.', 46.342183856188420, 17.788951992988586);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (389, 'stop42', 'Kaposvár, Táncsics M. u.', 46.345585255004316, 17.787329256534576);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (390, 'stop42', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (391, 'stop42', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (392, 'stop42', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (393, 'stop42', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (394, 'stop42', 'Kaposvár, Tallián Gy. u. 4.', 46.357163607490010, 17.797277569770813);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (395, 'stop42', 'Kaposvár, Kórház', 46.360229034900560, 17.797264158725740);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (396, 'stop42', 'Kaposvár, Tallián Gy. u. 56.', 46.362713089656480, 17.797266840934753);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (397, 'stop42', 'Kaposvár, Tallián Gy. u. 82.', 46.364639912768110, 17.797229290008545);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (398, 'stop42', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (399, 'stop42', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (400, 'stop42', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (401, 'stop42', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (402, 'stop42', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (403, 'stop42', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+
+-- stops42Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (404, 'stop42Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (405, 'stop42Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (406, 'stop42Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (407, 'stop42Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (408, 'stop42Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (409, 'stop42Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (410, 'stop42Back', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (411, 'stop42Back', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (412, 'stop42Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (413, 'stop42Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (414, 'stop42Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (415, 'stop42Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (416, 'stop42Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (417, 'stop42Back', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (418, 'stop42Back', 'Kaposvár, Táncsics M. u.', 46.345585255004316, 17.787329256534576);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (419, 'stop42Back', 'Kaposvár, Zichy M. u.', 46.342183856188420, 17.788951992988586);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (420, 'stop42Back', 'Kaposvár, Aranyeső utca.', 46.337669315816115, 17.790381610393524);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (421, 'stop42Back', 'Kaposvár, Harangvirág u.', 46.334783, 17.790026);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (422, 'stop42Back', 'Kaposvár, Gyertyános', 46.330263403253590, 17.789416015148163);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (423, 'stop42Back', 'Kaposvár, Kertbarát felső', 46.325108859259660, 17.787289023399353);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (424, 'stop42Back', 'Kaposvár, Kertbarát alsó', 46.320153890054550, 17.784829437732697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (425, 'stop42Back', 'Kaposvár, Szőlőhegy', 46.312925313409810, 17.786090075969696);
+
+-- stops43 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (426, 'stop43', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (427, 'stop43', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (428, 'stop43', 'Kaposvár, Tallián Gy. u. 4.', 46.357163607490010, 17.797277569770813);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (429, 'stop43', 'Kaposvár, Kórház', 46.360229034900560, 17.797264158725740);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (430, 'stop43', 'Kaposvár, Tallián Gy. u. 56.', 46.362713089656480, 17.797266840934753);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (431, 'stop43', 'Kaposvár, Tallián Gy. u. 82.', 46.364639912768110, 17.797229290008545);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (432, 'stop43', 'Kaposvár, Buzsáki u.', 46.367928866868034, 17.792299389839172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (433, 'stop43', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (434, 'stop43', 'Kaposvár, Brassó u.', 46.372092987227674, 17.787409722805023);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (435, 'stop43', 'Kaposvár, Sopron u. forduló ', 46.375490674220465, 17.785727977752686);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (436, 'stop43', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (437, 'stop43', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (438, 'stop43', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (439, 'stop43', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (440, 'stop43', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (441, 'stop43', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (442, 'stop43', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (443, 'stop43', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops44 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (444, 'stop44', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (445, 'stop44', 'Kaposvár, Kapostüskevár', 46.365631, 17.773384);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (446, 'stop44', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (447, 'stop44', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (448, 'stop44', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (449, 'stop44', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (450, 'stop44', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (451, 'stop44', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (452, 'stop44', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (453, 'stop44', 'Kaposvár, Nagyszeben u.', 46.373155249773944, 17.787109315395355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (454, 'stop44', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (455, 'stop44', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (456, 'stop44', 'Kaposvár, Buzsáki u.', 46.367928866868034, 17.792299389839172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (457, 'stop44', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (458, 'stop44', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (459, 'stop44', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (460, 'stop44', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (461, 'stop44', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (462, 'stop44', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops45 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (463, 'stop45', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (464, 'stop45', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (465, 'stop45', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (466, 'stop45', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (467, 'stop45', 'Kaposvár, Erdősor u.', 46.345687090029300, 17.773953080177307);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (468, 'stop45', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+
+-- stops45Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (469, 'stop45Back', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (470, 'stop45Back', 'Kaposvár, Gönczi F. u.', 46.344759458522690, 17.774610221385956);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (471, 'stop45Back', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (472, 'stop45Back', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (473, 'stop45Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (474, 'stop45Back', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops46 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (475, 'stop46', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (476, 'stop46', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (477, 'stop46', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (478, 'stop46', 'Kaposvár, Táncsics M. u.', 46.345585255004316, 17.787329256534576);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (479, 'stop46', 'Kaposvár, Zichy M. u.', 46.342183856188420, 17.788951992988586);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (480, 'stop46', 'Kaposvár, Aranyeső utca.', 46.337669315816115, 17.790381610393524);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (481, 'stop46', 'Kaposvár, Harangvirág u.', 46.334783, 17.790026);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (482, 'stop46', 'Kaposvár, Gyertyános', 46.330263403253590, 17.789416015148163);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (483, 'stop46', 'Kaposvár, Kertbarát felső', 46.325108859259660, 17.787289023399353);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (484, 'stop46', 'Kaposvár, Kertbarát alsó', 46.320153890054550, 17.784829437732697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (485, 'stop46', 'Kaposvár, Szőlőhegy', 46.312925313409810, 17.786090075969696);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (486, 'stop46', 'Kaposvár, Fenyves utca 37/A', 46.307659818792430, 17.782949209213257);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (487, 'stop46', 'Kaposvár, Fenyves utca 31', 46.305945922572850, 17.783346176147460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (488, 'stop46', 'Kaposvár, Töröcske forduló', 46.313599675140970, 17.779864668846130);
+
+-- stops46Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (489, 'stop46Back', 'Kaposvár, Töröcske forduló', 46.313599675140970, 17.779864668846130);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (490, 'stop46Back', 'Kaposvár, Fenyves utca 31', 46.305945922572850, 17.783346176147460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (491, 'stop46Back', 'Kaposvár, Fenyves utca 37/A', 46.307659818792430, 17.782949209213257);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (492, 'stop46Back', 'Kaposvár, Szőlőhegy', 46.312925313409810, 17.786090075969696);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (493, 'stop46Back', 'Kaposvár, Kertbarát alsó', 46.320153890054550, 17.784829437732697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (494, 'stop46Back', 'Kaposvár, Kertbarát felső', 46.325108859259660, 17.787289023399353);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (495, 'stop46Back', 'Kaposvár, Gyertyános', 46.330263403253590, 17.789416015148163);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (496, 'stop46Back', 'Kaposvár, Harangvirág u.', 46.334783, 17.790026);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (497, 'stop46Back', 'Kaposvár, Aranyeső utca.', 46.337669315816115, 17.790381610393524);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (498, 'stop46Back', 'Kaposvár, Zichy M. u.', 46.342183856188420, 17.788951992988586);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (499, 'stop46Back', 'Kaposvár, Táncsics M. u.', 46.345585255004316, 17.787329256534576);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (500, 'stop46Back', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (501, 'stop46Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (502, 'stop46Back', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops47 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (503, 'stop47', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (504, 'stop47', 'Kaposvár, Gönczi F. u.', 46.344759458522690, 17.774610221385956);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (505, 'stop47', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (506, 'stop47', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (507, 'stop47', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (508, 'stop47', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (509, 'stop47', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (510, 'stop47', 'Kaposvár, Tallián Gy. u. 4.', 46.357163607490010, 17.797277569770813);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (511, 'stop47', 'Kaposvár, Kórház', 46.360229034900560, 17.797264158725740);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (512, 'stop47', 'Kaposvár, Tallián Gy. u. 56.', 46.362713089656480, 17.797266840934753);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (513, 'stop47', 'Kaposvár, Tallián Gy. u. 82.', 46.364639912768110, 17.797229290008545);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (514, 'stop47', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (515, 'stop47', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (516, 'stop47', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (517, 'stop47', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (518, 'stop47', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (519, 'stop47', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (520, 'stop47', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (521, 'stop47', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (522, 'stop47', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (523, 'stop47', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (524, 'stop47', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (525, 'stop47', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops47Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (526, 'stop47Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (527, 'stop47Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (528, 'stop47Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (529, 'stop47Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (530, 'stop47Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (531, 'stop47Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (532, 'stop47Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (533, 'stop47Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (534, 'stop47Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (535, 'stop47Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (536, 'stop47Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (537, 'stop47Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (538, 'stop47Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (539, 'stop47Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (540, 'stop47Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (541, 'stop47Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (542, 'stop47Back', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (543, 'stop47Back', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (544, 'stop47Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (545, 'stop47Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (546, 'stop47Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (547, 'stop47Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (548, 'stop47Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (549, 'stop47Back', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (550, 'stop47Back', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (551, 'stop47Back', 'Kaposvár, Erdősor u.', 46.345687090029300, 17.773953080177307);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (552, 'stop47Back', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+
+-- stops51 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (553, 'stop51', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (554, 'stop51', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (555, 'stop51', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (556, 'stop51', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (557, 'stop51', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (558, 'stop51', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (559, 'stop51', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (560, 'stop51', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (561, 'stop51', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (562, 'stop51', 'Kaposvár, Corso', 46.355392023023086, 17.785899639129640);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (563, 'stop51', 'Kaposvár, Zárda u.', 46.358837026377685, 17.787715494632720);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (564, 'stop51', 'Kaposvár, Honvéd u.', 46.363140661458800, 17.787967622280120);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (565, 'stop51', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (566, 'stop51', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (567, 'stop51', 'Kaposvár, Brassó u.', 46.372092987227674, 17.787409722805023);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (568, 'stop51', 'Kaposvár, Sopron u. forduló ', 46.375490674220465, 17.785727977752686);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (569, 'stop51', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (570, 'stop51', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+
+-- stops51Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (571, 'stop51Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (572, 'stop51Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (573, 'stop51Back', 'Kaposvár, Nagyszeben u.', 46.373155249773944, 17.787109315395355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (574, 'stop51Back', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (575, 'stop51Back', 'Kaposvár, Arany J. tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (576, 'stop51Back', 'Kaposvár, Honvéd u.', 46.363140661458800, 17.787967622280120);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (577, 'stop51Back', 'Kaposvár, Somssich P. u.', 46.360545563804600, 17.789102196693420);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (578, 'stop51Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (579, 'stop51Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (580, 'stop51Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (581, 'stop51Back', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (582, 'stop51Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (583, 'stop51Back', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (584, 'stop51Back', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (585, 'stop51Back', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (586, 'stop51Back', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (587, 'stop51Back', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (588, 'stop51Back', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (589, 'stop51Back', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+
+-- stops61 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (590, 'stop61', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (591, 'stop61', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (592, 'stop61', 'Kaposvár, Baross Gábor utca', 46.352929851011720, 17.800327241420746);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (593, 'stop61', 'Kaposvár, Csalogány utca.', 46.351143318417705, 17.808754742145540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (594, 'stop61', 'Kaposvár, Vikár Béla. utca.', 46.350356485021180, 17.812102138996124);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (595, 'stop61', 'Kaposvár, Béla király u. forduló', 46.348434712544030, 17.815065979957580);
+
+-- stops61Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (596, 'stop61Back', 'Kaposvár, Béla király u. forduló', 46.348434712544030, 17.815065979957580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (597, 'stop61Back', 'Kaposvár, Vikár Béla. utca.', 46.350356485021180, 17.812102138996124);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (598, 'stop61Back', 'Kaposvár, Csalogány utca.', 46.351143318417705, 17.808754742145540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (599, 'stop61Back', 'Kaposvár, Baross Gábor utca', 46.352929851011720, 17.800327241420746);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (600, 'stop61Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops62 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (601, 'stop62', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (602, 'stop62', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (603, 'stop62', 'Kaposvár, Városi Fürdő', 46.351209967314425, 17.799356281757355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (604, 'stop62', 'Kaposvár, Csalogány utca.', 46.351143318417705, 17.808754742145540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (605, 'stop62', 'Kaposvár, Vikár Béla. utca.', 46.350356485021180, 17.812102138996124);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (606, 'stop62', 'Kaposvár, Béla király u. forduló', 46.348434712544030, 17.815065979957580);
+
+-- stops62Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (607, 'stop62Back', 'Kaposvár, Béla király u. forduló', 46.348434712544030, 17.815065979957580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (608, 'stop62Back', 'Kaposvár, Vikár Béla. utca.', 46.350356485021180, 17.812102138996124);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (609, 'stop62Back', 'Kaposvár, Csalogány utca.', 46.351143318417705, 17.808754742145540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (610, 'stop62Back', 'Kaposvár, Városi Fürdő', 46.351209967314425, 17.799356281757355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (611, 'stop62Back', 'Kaposvár, Berzsenyi u. felüljáró', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (612, 'stop62Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops70 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (613, 'stop70', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (614, 'stop70', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (615, 'stop70', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (616, 'stop70', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (617, 'stop70', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (618, 'stop70', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (619, 'stop70', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (620, 'stop70', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (621, 'stop70', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (622, 'stop70', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (623, 'stop70', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (624, 'stop70', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (625, 'stop70', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (626, 'stop70', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops70Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (627, 'stop70Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (628, 'stop70Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (629, 'stop70Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (630, 'stop70Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (631, 'stop70Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (632, 'stop70Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (633, 'stop70Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (634, 'stop70Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (635, 'stop70Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (636, 'stop70Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (637, 'stop70Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (638, 'stop70Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (639, 'stop70Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (640, 'stop70Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (641, 'stop70Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (642, 'stop70Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (643, 'stop70Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (644, 'stop70Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops71 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (645, 'stop71', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (646, 'stop71', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (647, 'stop71', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (648, 'stop71', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (649, 'stop71', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (650, 'stop71', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (651, 'stop71', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (652, 'stop71', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (653, 'stop71', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (654, 'stop71', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (655, 'stop71', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (656, 'stop71', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (657, 'stop71', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (658, 'stop71', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (659, 'stop71', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (660, 'stop71', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (661, 'stop71', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (662, 'stop71', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (663, 'stop71', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (664, 'stop71', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (665, 'stop71', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (666, 'stop71', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (667, 'stop71', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (668, 'stop71', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (669, 'stop71', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops71Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (670, 'stop71Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (671, 'stop71Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (672, 'stop71Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (673, 'stop71Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (674, 'stop71Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (675, 'stop71Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (676, 'stop71Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (677, 'stop71Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (678, 'stop71Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (679, 'stop71Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (680, 'stop71Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (681, 'stop71Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (682, 'stop71Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (683, 'stop71Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (684, 'stop71Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (685, 'stop71Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (686, 'stop71Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (687, 'stop71Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (688, 'stop71Back', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (689, 'stop71Back', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (690, 'stop71Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (691, 'stop71Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (692, 'stop71Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (693, 'stop71Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (694, 'stop71Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (695, 'stop71Back', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (696, 'stop71Back', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (697, 'stop71Back', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (698, 'stop71Back', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+
+-- stops72 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (699, 'stop72', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (700, 'stop72', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (701, 'stop72', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (702, 'stop72', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (703, 'stop72', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (704, 'stop72', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (705, 'stop72', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (706, 'stop72', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (707, 'stop72', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (708, 'stop72', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (709, 'stop72', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (710, 'stop72', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (711, 'stop72', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (712, 'stop72', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (713, 'stop72', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (714, 'stop72', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (715, 'stop72', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (716, 'stop72', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (717, 'stop72', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (718, 'stop72', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (719, 'stop72', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (720, 'stop72', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (721, 'stop72', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (722, 'stop72', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (723, 'stop72', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (724, 'stop72', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (725, 'stop72', 'Kaposvár, Hold utca', 46.346305502288780, 17.834662199020386);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (726, 'stop72', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (727, 'stop72', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (728, 'stop72', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (729, 'stop72', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (730, 'stop72', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (731, 'stop72', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+
+-- stops72Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (732, 'stop72Back', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (733, 'stop72Back', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (734, 'stop72Back', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (735, 'stop72Back', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (736, 'stop72Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (737, 'stop72Back', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (738, 'stop72Back', 'Kaposvár, Hold utca', 46.346305502288780, 17.834662199020386);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (739, 'stop72Back', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (740, 'stop72Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (741, 'stop72Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (742, 'stop72Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (743, 'stop72Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (744, 'stop72Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (745, 'stop72Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (746, 'stop72Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (747, 'stop72Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (748, 'stop72Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (749, 'stop72Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (750, 'stop72Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (751, 'stop72Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (752, 'stop72Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (753, 'stop72Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (754, 'stop72Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (755, 'stop72Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (756, 'stop72Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (757, 'stop72Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (758, 'stop72Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (759, 'stop72Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (760, 'stop72Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops73 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (761, 'stop73', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (762, 'stop73', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (763, 'stop73', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (764, 'stop73', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (765, 'stop73', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (766, 'stop73', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (767, 'stop73', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (768, 'stop73', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (769, 'stop73', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (770, 'stop73', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (771, 'stop73', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (772, 'stop73', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (773, 'stop73', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (774, 'stop73', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (775, 'stop73', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (776, 'stop73', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (777, 'stop73', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (778, 'stop73', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (779, 'stop73', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (780, 'stop73', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (781, 'stop73', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (782, 'stop73', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (783, 'stop73', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (784, 'stop73', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (785, 'stop73', 'Kaposvár, Kométa forduló', 46.356947021875070, 17.821197509765625);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (786, 'stop73', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (787, 'stop73', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (788, 'stop73', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (789, 'stop73', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (790, 'stop73', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+
+-- stops73Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (791, 'stop73Back', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (792, 'stop73Back', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (793, 'stop73Back', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (794, 'stop73Back', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (795, 'stop73Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (796, 'stop73Back', 'Kaposvár, Kométa forduló', 46.356947021875070, 17.821197509765625);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (797, 'stop73Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (798, 'stop73Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (799, 'stop73Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (800, 'stop73Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (801, 'stop73Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (802, 'stop73Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (803, 'stop73Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (804, 'stop73Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (805, 'stop73Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (806, 'stop73Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (807, 'stop73Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (808, 'stop73Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (809, 'stop73Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (810, 'stop73Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (811, 'stop73Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (812, 'stop73Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (813, 'stop73Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (814, 'stop73Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (815, 'stop73Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (816, 'stop73Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+
+-- stops74 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (817, 'stop74', 'Kaposvár, Hold utca', 46.346305502288780, 17.834662199020386);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (818, 'stop74', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (819, 'stop74', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (820, 'stop74', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (821, 'stop74', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (822, 'stop74', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (823, 'stop74', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (824, 'stop74', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (825, 'stop74', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (826, 'stop74', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops75 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (827, 'stop75', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (828, 'stop75', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (829, 'stop75', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (830, 'stop75', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (831, 'stop75', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (832, 'stop75', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (833, 'stop75', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (834, 'stop75', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (835, 'stop75', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (836, 'stop75', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (837, 'stop75', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (838, 'stop75', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+
+-- stops75Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (839, 'stop75Back', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (840, 'stop75Back', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (841, 'stop75Back', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (842, 'stop75Back', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (843, 'stop75Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (844, 'stop75Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (845, 'stop75Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (846, 'stop75Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (847, 'stop75Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (848, 'stop75Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (849, 'stop75Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (850, 'stop75Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops81 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (851, 'stop81', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (852, 'stop81', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (853, 'stop81', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (854, 'stop81', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (855, 'stop81', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (856, 'stop81', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (857, 'stop81', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (858, 'stop81', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (859, 'stop81', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (860, 'stop81', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (861, 'stop81', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (862, 'stop81', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (863, 'stop81', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (864, 'stop81', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (865, 'stop81', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (866, 'stop81', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+
+-- stops81Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (867, 'stop81Back', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (868, 'stop81Back', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (869, 'stop81Back', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (870, 'stop81Back', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (871, 'stop81Back', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (872, 'stop81Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (873, 'stop81Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (874, 'stop81Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (875, 'stop81Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (876, 'stop81Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (877, 'stop81Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (878, 'stop81Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (879, 'stop81Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (880, 'stop81Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (881, 'stop81Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (882, 'stop81Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops82 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (883, 'stop82', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (884, 'stop82', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (885, 'stop82', 'Kaposvár, Tallián Gy. u. 4.', 46.357163607490010, 17.797277569770813);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (886, 'stop82', 'Kaposvár, Kórház', 46.360229034900560, 17.797264158725740);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (887, 'stop82', 'Kaposvár, Tallián Gy. u. 56.', 46.362713089656480, 17.797266840934753);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (888, 'stop82', 'Kaposvár, Tallián Gy. u. 82.', 46.364639912768110, 17.797229290008545);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (889, 'stop82', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (890, 'stop82', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (891, 'stop82', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (892, 'stop82', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (893, 'stop82', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (894, 'stop82', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (895, 'stop82', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (896, 'stop82', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (897, 'stop82', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (898, 'stop82', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (899, 'stop82', 'Kaposvár, Toponár Orci út', 46.395331, 17.841615);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (900, 'stop82', 'Kaposvár, Toponár Szábó P. u.', 46.392561, 17.844529);
+
+-- stops82Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (901, 'stop82Back', 'Kaposvár, Toponár Szábó P. u.', 46.392561, 17.844529);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (902, 'stop82Back', 'Kaposvár, Erdei F. u.', 46.396229375766644, 17.845348119735718);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (903, 'stop82Back', 'Kaposvár, Toponár Orci út', 46.395331, 17.841615);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (904, 'stop82Back', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (905, 'stop82Back', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (906, 'stop82Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (907, 'stop82Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (908, 'stop82Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (909, 'stop82Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (910, 'stop82Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (911, 'stop82Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (912, 'stop82Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (913, 'stop82Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (914, 'stop82Back', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (915, 'stop82Back', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (916, 'stop82Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (917, 'stop82Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (918, 'stop82Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (919, 'stop82Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops83 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (920, 'stop83', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (921, 'stop83', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (922, 'stop83', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (923, 'stop83', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (924, 'stop83', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (925, 'stop83', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (926, 'stop83', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (927, 'stop83', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (928, 'stop83', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (929, 'stop83', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (930, 'stop83', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (931, 'stop83', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (932, 'stop83', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (933, 'stop83', 'Kaposvár, Toponár Orci út', 46.395331, 17.841615);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (934, 'stop83', 'Kaposvár, Toponár Szábó P. u.', 46.392561, 17.844529);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (935, 'stop83', 'Kaposvár, Erdei F. u.', 46.396229375766644, 17.845348119735718);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (936, 'stop83', 'Kaposvár, Toponár Orci út', 46.395331, 17.841615);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (937, 'stop83', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (938, 'stop83', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (939, 'stop83', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (940, 'stop83', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+
+-- stops83Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (941, 'stop83Back', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (942, 'stop83Back', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (943, 'stop83Back', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (944, 'stop83Back', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (945, 'stop83Back', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (946, 'stop83Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (947, 'stop83Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (948, 'stop83Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (949, 'stop83Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (950, 'stop83Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (951, 'stop83Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (952, 'stop83Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (953, 'stop83Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (954, 'stop83Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (955, 'stop83Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (956, 'stop83Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops84 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (957, 'stop84', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (958, 'stop84', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (959, 'stop84', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (960, 'stop84', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (961, 'stop84', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (962, 'stop84', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (963, 'stop84', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (964, 'stop84', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (965, 'stop84', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (966, 'stop84', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (967, 'stop84', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (968, 'stop84', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (969, 'stop84', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (970, 'stop84', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (971, 'stop84', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (972, 'stop84', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (973, 'stop84', 'Kaposvár, Répáspuszta', 46.430012, 17.845378);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (974, 'stop84', 'Kaposvár, Répáspuszta forduló', 46.429766, 17.840568);
+
+-- stops84Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (975, 'stop84Back', 'Kaposvár, Répáspuszta forduló', 46.429766, 17.840568);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (976, 'stop84Back', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (977, 'stop84Back', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (978, 'stop84Back', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (979, 'stop84Back', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (980, 'stop84Back', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (981, 'stop84Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (982, 'stop84Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (983, 'stop84Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (984, 'stop84Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (985, 'stop84Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (986, 'stop84Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (987, 'stop84Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (988, 'stop84Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (989, 'stop84Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (990, 'stop84Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (991, 'stop84Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops85 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (992, 'stop85', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (993, 'stop85', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (994, 'stop85', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (995, 'stop85', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (996, 'stop85', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (997, 'stop85', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (998, 'stop85', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (999, 'stop85', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1000, 'stop85', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1001, 'stop85', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1002, 'stop85', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1003, 'stop85', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1004, 'stop85', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1005, 'stop85', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops86 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1006, 'stop86', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1007, 'stop86', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1008, 'stop86', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1009, 'stop86', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1010, 'stop86', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1011, 'stop86', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1012, 'stop86', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1013, 'stop86', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1014, 'stop86', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1015, 'stop86', 'Kaposvár, METYX', 46.365016, 17.848897);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1016, 'stop86', 'Kaposvár, Cabero', 46.364425, 17.856977);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1017, 'stop86', 'Kaposvár, Szennyvíztelep', 46.361176, 17.871731);
+
+-- stops86Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1018, 'stop86Back', 'Kaposvár, Szennyvíztelep', 46.361176, 17.871731);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1019, 'stop86Back', 'Kaposvár, Cabero', 46.364425, 17.856977);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1020, 'stop86Back', 'Kaposvár, METYX', 46.365016, 17.848897);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1021, 'stop86Back', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1022, 'stop86Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1023, 'stop86Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1024, 'stop86Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1025, 'stop86Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1026, 'stop86Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1027, 'stop86Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1028, 'stop86Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1029, 'stop86Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1030, 'stop86Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops87 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1031, 'stop87', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1032, 'stop87', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1033, 'stop87', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1034, 'stop87', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1035, 'stop87', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1036, 'stop87', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1037, 'stop87', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1038, 'stop87', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1039, 'stop87', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1040, 'stop87', 'Kaposvár, METYX', 46.365016, 17.848897);
+
+-- stops87Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1041, 'stop87Back', 'Kaposvár, METYX', 46.365016, 17.848897);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1042, 'stop87Back', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1043, 'stop87Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1044, 'stop87Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1045, 'stop87Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1046, 'stop87Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1047, 'stop87Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1048, 'stop87Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1049, 'stop87Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1050, 'stop87Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1051, 'stop87Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops88 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1052, 'stop88', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1053, 'stop88', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1054, 'stop88', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1055, 'stop88', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1056, 'stop88', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1057, 'stop88', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1058, 'stop88', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1059, 'stop88', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+
+-- stops88Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1060, 'stop88Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1061, 'stop88Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1062, 'stop88Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1063, 'stop88Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1064, 'stop88Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1065, 'stop88Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1066, 'stop88Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1067, 'stop88Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1068, 'stop88Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops89 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1069, 'stop89', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1070, 'stop89', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1071, 'stop89', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1072, 'stop89', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1073, 'stop89', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1074, 'stop89', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1075, 'stop89', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1076, 'stop89', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1077, 'stop89', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1078, 'stop89', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1079, 'stop89', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+
+-- stops89Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1080, 'stop89Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1081, 'stop89Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1082, 'stop89Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1083, 'stop89Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1084, 'stop89Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1085, 'stop89Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1086, 'stop89Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1087, 'stop89Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1088, 'stop89Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1089, 'stop89Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1090, 'stop89Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops90 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1091, 'stop90', 'Kaposvár, Helyi autóbusz-állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1092, 'stop90', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1093, 'stop90', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1094, 'stop90', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1095, 'stop90', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1096, 'stop90', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1097, 'stop90', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1098, 'stop90', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1099, 'stop90', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+
+-- stops90Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1100, 'stop90Back', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1101, 'stop90Back', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1102, 'stop90Back', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1103, 'stop90Back', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1104, 'stop90Back', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1105, 'stop90Back', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1106, 'stop90Back', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1107, 'stop90Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1108, 'stop90Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+
+-- stops91 járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1109, 'stop91', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1110, 'stop91', 'Kaposvár, Arany János utca', 46.366792469552290, 17.784512937068940);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1111, 'stop91', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1112, 'stop91', 'Kaposvár, Buzsáki u.', 46.367928866868034, 17.792299389839172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1113, 'stop91', 'Kaposvár, Hegyi u.', 46.367684561948180, 17.797811329364777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1114, 'stop91', 'Kaposvár, Vöröstelek u.', 46.364267880170260, 17.799975872039795);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1115, 'stop91', 'Kaposvár, Pázmány P. u. 1.', 46.360912068665720, 17.801375985145570);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1116, 'stop91', 'Kaposvár, Virág u.', 46.358487167595270, 17.803862392902374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1117, 'stop91', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1118, 'stop91', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1119, 'stop91', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1120, 'stop91', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1121, 'stop91', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1122, 'stop91', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1123, 'stop91', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1124, 'stop91', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1125, 'stop91', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1126, 'stop91', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1127, 'stop91', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1128, 'stop91', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+
+-- stops91Back járat megállói
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1129, 'stop91Back', 'Kaposvár, Rómahegy', 46.341064, 17.809862);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1130, 'stop91Back', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1131, 'stop91Back', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1132, 'stop91Back', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1133, 'stop91Back', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1134, 'stop91Back', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1135, 'stop91Back', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1136, 'stop91Back', 'Kaposvár, Berzsenyi u. felüljáró   ', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1137, 'stop91Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1138, 'stop91Back', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1139, 'stop91Back', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1140, 'stop91Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1141, 'stop91Back', 'Kaposvár, Virág u.', 46.358487167595270, 17.803862392902374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1142, 'stop91Back', 'Kaposvár, Pázmány P. u. 1.', 46.360912068665720, 17.801375985145570);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1143, 'stop91Back', 'Kaposvár, Vöröstelek u.', 46.364267880170260, 17.799975872039795);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1144, 'stop91Back', 'Kaposvár, Hegyi u.', 46.367684561948180, 17.797811329364777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1145, 'stop91Back', 'Kaposvár, Buzsáki u.', 46.367928866868034, 17.792299389839172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1146, 'stop91Back', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1147, 'stop91Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1148, 'stop91Back', 'Kaposvár, Helyi autóbusz állomás', 46.353712944816756, 17.790623009204865);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1149, 'stop91Back', 'Kaposvár, Berzsenyi utca felüljáró', 46.356517550424560, 17.785293459892273);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1150, 'stop91Back', 'Kaposvár, Berzsenyi utca. 30.', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1151, 'stop91Back', 'Kaposvár, Bethlen G. u.', 46.352086, 17.762094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1152, 'stop91Back', 'Kaposvár, Ballakúti u.', 46.341454000000000, 17.800144000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1153, 'stop91Back', 'Kaposvár, Lonkahegy forduló', 46.341060000000000, 17.809980000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1154, 'stop91Back', 'Kaposvár, Nyár .', 46.340230000000000, 17.806737000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1155, 'stop91Back', 'Kaposvár, Berzsenyi u. felüljáró', 46.355407000000000, 17.784772000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1156, 'stop91Back', 'Kaposvár, Jókai liget', 46.351217000000000, 17.791028000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1157, 'stop91Back', 'Kaposvár, Szigetvári u. 6. ', 46.349016000000000, 17.794155000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1158, 'stop91Back', 'Kaposvár, Szigetvári u. 62.   ', 46.345504000000000, 17.796827000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1159, 'stop91Back', 'Kaposvár, Szigetvári u. 139.', 46.339967000000000, 17.801641000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1160, 'stop91Back', 'Kaposvár, Kaposfüred vá.', 46.414177188967860, 17.759399414062500);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1161, 'stop91Back', 'Kaposvár, Bersenyi u. 30. ', 46.360245694362280, 17.783764600753784);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1162, 'stop91Back', 'Kaposvár, Füredi u. csp.', 46.364636210963700, 17.782359123229980);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1163, 'stop91Back', 'Kaposvár, Toldi lakónegyed', 46.367282937091694, 17.782611250877380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1164, 'stop91Back', 'Kaposvár, Kinizsi ltp.', 46.371837596984186, 17.782562971115112);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1165, 'stop91Back', 'Kaposvár, Búzavirág u.', 46.376005120381800, 17.781790494918823);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1166, 'stop91Back', 'Kaposvár, Laktanya', 46.378899252341710, 17.781264781951904);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1167, 'stop91Back', 'Kaposvár, Volán-telep', 46.390476096295025, 17.779242396354675);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1168, 'stop91Back', 'Kaposvár, Kaposfüredi u. 12.', 46.402831025305830, 17.779363095760345);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1169, 'stop91Back', 'Kaposvár, Kaposfüredi u. 104.', 46.408939937748370, 17.779510617256165);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1170, 'stop91Back', 'Kaposvár, Kaposfüred központ', 46.413452288702540, 17.777397036552430);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1171, 'stop91Back', 'Kaposvár, Állomás u.', 46.413161956046970, 17.762910425662994);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1172, 'stop91Back', 'Kaposvár, Kaposfüredi u. 244.', 46.419606237670900, 17.776479721069336);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1173, 'stop91Back', 'Kaposvár, Kaposfüred forduló', 46.422991722931310, 17.775487303733826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1174, 'stop91Back', 'Kaposvár, Városi könyvtár', 46.363116599065280, 17.776970565319060);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1175, 'stop91Back', 'Kaposvár, Vasútköz', 46.363973583932410, 17.770326733589172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1176, 'stop91Back', 'Kaposvár, Raktár u. forduló', 46.379363705526960, 17.769232392311096);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1177, 'stop91Back', 'Kaposvár, Mátyás k. u. forduló', 46.366068790536570, 17.758959531784058);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1178, 'stop91Back', 'Kaposvár, Egyenesi u. forduló', 46.339085936499174, 17.763682901859283);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1179, 'stop91Back', 'Kaposvár, Koppány vezér u. forduló', 46.345209389542640, 17.771404981613160);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1180, 'stop91Back', 'Kaposvár, Töröcske forduló', 46.313599675140970, 17.779864668846130);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1181, 'stop91Back', 'Kaposvár, Béla király u. forduló', 46.348434712544030, 17.815065979957580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1182, 'stop91Back', 'Kaposvár, Kaposszentjakab forduló', 46.359686674094590, 17.847394645214080);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1183, 'stop91Back', 'Kaposvár, Toponár forduló', 46.407843232130425, 17.836671173572540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1184, 'stop91Back', 'Kaposvár, NABI forduló', 46.365024899057650, 17.848915457725525);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1185, 'stop91Back', 'Kaposvár, Kaposvári Egyetem', 46.383808193175200, 17.825261056423187);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1186, 'stop91Back', 'Kaposvár, Videoton', 46.364040217181720, 17.820736169815063);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1187, 'stop91Back', 'Kaposvár, Buzsáki u.', 46.367928866868034, 17.792299389839172);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1188, 'stop91Back', 'Kaposvár, Aranytér', 46.367667904754760, 17.790201902389526);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1189, 'stop91Back', 'Kaposvár, Sopron u. forduló ', 46.375490674220465, 17.785727977752686);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1190, 'stop91Back', 'Kaposvár, Tóth Árpád u.', 46.371870908822820, 17.767518460750580);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1191, 'stop91Back', 'Kaposvár, Kométa forduló', 46.356947021875070, 17.821197509765625);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1192, 'stop91Back', 'Kaposvár, 67-es sz. út', 46.351163683366990, 17.782756090164185);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1193, 'stop91Back', 'Kaposvár, Rózsa u.', 46.346277729433150, 17.779365777969360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1194, 'stop91Back', 'Kaposvár, Erdősor u.', 46.345687090029300, 17.773953080177307);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1195, 'stop91Back', 'Kaposvár, Gönczi F. u.', 46.344759458522690, 17.774610221385956);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1196, 'stop91Back', 'Kaposvár, Városi Fürdő', 46.351209967314425, 17.799356281757355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1197, 'stop91Back', 'Kaposvár, Hajnóczy u. csp.', 46.366816530326750, 17.765412926673890);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1198, 'stop91Back', 'Kaposvár, Jutai u. 24.', 46.370247858398170, 17.768795192241670);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1199, 'stop91Back', 'Kaposvár, Jutai u. 45.', 46.376943324463234, 17.763591706752777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1200, 'stop91Back', 'Kaposvár, Raktár u. 2.', 46.378262704506820, 17.763543426990510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1201, 'stop91Back', 'Kaposvár, Kecelhegyalja u. 6.', 46.363492341385500, 17.761067748069763);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1202, 'stop91Back', 'Kaposvár, Kőrösi Cs. S. u. 109.', 46.358611191864384, 17.760450839996338);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1203, 'stop91Back', 'Kaposvár, Kecelhegyi iskola', 46.353500048084380, 17.765681147575380);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1204, 'stop91Back', 'Kaposvár, Kőrösi Cs. S. u. 45.', 46.352144894660360, 17.762121856212616);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1205, 'stop91Back', 'Kaposvár, Kenese tér', 46.348660589113850, 17.763318121433258);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1206, 'stop91Back', 'Kaposvár, Eger u.', 46.348264378775690, 17.768146097660065);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1207, 'stop91Back', 'Kaposvár, Kapoli A. u.', 46.347679315267825, 17.763312757015230);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1208, 'stop91Back', 'Kaposvár, Egyenesi u. 42.', 46.345140881766255, 17.763232290744780);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1209, 'stop91Back', 'Kaposvár, Beszédes J. u.', 46.341809819016056, 17.763240337371826);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1210, 'stop91Back', 'Kaposvár, Állatkorház', 46.352109719465574, 17.771563231945038);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1211, 'stop91Back', 'Kaposvár, Kölcsey u.', 46.352794706028230, 17.774274945259094);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1212, 'stop91Back', 'Kaposvár, Tompa M. u.', 46.353674068084040, 17.778663039207460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1213, 'stop91Back', 'Kaposvár, Vasútállomás', 46.352903932821600, 17.796105444431305);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1214, 'stop91Back', 'Kaposvár, Baross Gábor utca', 46.352929851011720, 17.800327241420746);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1215, 'stop91Back', 'Kaposvár, Csalogány utca.', 46.351143318417705, 17.808754742145540);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1216, 'stop91Back', 'Kaposvár, Vikár Béla. utca.', 46.350356485021180, 17.812102138996124);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1217, 'stop91Back', 'Kaposvár, Fő utca 48.', 46.356810035658340, 17.798160016536713);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1218, 'stop91Back', 'Kaposvár, Fő utca. 37.', 46.356717477209365, 17.795362472534180);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1219, 'stop91Back', 'Kaposvár, Hársfa utca.', 46.357235802504250, 17.802070677280426);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1220, 'stop91Back', 'Kaposvár, Hősök temploma', 46.357913320297510, 17.807663083076477);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1221, 'stop91Back', 'Kaposvár, Gyár utca.', 46.356928510244230, 17.814457118511200);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1222, 'stop91Back', 'Kaposvár, Pécsi úti iskola', 46.356136206566090, 17.818520665168762);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1223, 'stop91Back', 'Kaposvár, Nádasdi utca.', 46.355023629907160, 17.825062572956085);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1224, 'stop91Back', 'Kaposvár, Móricz Zs. utca.', 46.353829574848916, 17.835308611392975);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1225, 'stop91Back', 'Kaposvár, Pécsi utca. 227.', 46.357420917489460, 17.839656472206116);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1226, 'stop91Back', 'Kaposvár, Várhegy feljáró', 46.359329416424664, 17.843674421310425);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1227, 'stop91Back', 'Kaposvár, Nap', 46.350647151854060, 17.828941047191620);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1228, 'stop91Back', 'Kaposvár, Hold utca', 46.346305502288780, 17.834662199020386);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1229, 'stop91Back', 'Kaposvár, Magyar Nobel-díjasok tere', 46.348853138895365, 17.763251066207886);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1230, 'stop91Back', 'Kaposvár, Bartók Béla utca.', 46.351437683765035, 17.790352106094360);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1231, 'stop91Back', 'Kaposvár, Táncsics M. u.', 46.345585255004316, 17.787329256534576);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1232, 'stop91Back', 'Kaposvár, Zichy M. u.', 46.342183856188420, 17.788951992988586);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1233, 'stop91Back', 'Kaposvár, Aranyeső utca.', 46.337669315816115, 17.790381610393524);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1234, 'stop91Back', 'Kaposvár, Jókai utca', 46.345764854829700, 17.787168323993683);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1235, 'stop91Back', 'Kaposvár, Szegfű utca', 46.345566739524855, 17.783179879188538);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1236, 'stop91Back', 'Kaposvár, Gyertyános', 46.330263403253590, 17.789416015148163);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1237, 'stop91Back', 'Kaposvár, Kertbarát felső', 46.325108859259660, 17.787289023399353);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1238, 'stop91Back', 'Kaposvár, Kertbarát alsó', 46.320153890054550, 17.784829437732697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1239, 'stop91Back', 'Kaposvár, Szőlőhegy', 46.312925313409810, 17.786090075969696);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1240, 'stop91Back', 'Kaposvár, Fenyves utca 37/A', 46.307659818792430, 17.782949209213257);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1241, 'stop91Back', 'Kaposvár, Fenyves utca 31', 46.305945922572850, 17.783346176147460);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1242, 'stop91Back', 'Kaposvár, Kórház célgazdaság', 46.313577443568010, 17.779859304428100);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1243, 'stop91Back', 'Kaposvár, Fenyves utca. 63.', 46.308354626297070, 17.782509326934814);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1244, 'stop91Back', 'Kaposvár, Mező utca csp.', 46.364166079764190, 17.813687324523926);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1245, 'stop91Back', 'Kaposvár, Izzó utca', 46.366396390664846, 17.815342247486115);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1246, 'stop91Back', 'Kaposvár, Guba Sándor utca 81.', 46.373641958986180, 17.821240425109863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1247, 'stop91Back', 'Kaposvár, Guba Sándor utca 57.', 46.368658073539770, 17.817276120185852);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1248, 'stop91Back', 'Kaposvár, Villamossági Gyár', 46.377739027323290, 17.823745608329773);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1249, 'stop91Back', 'Kaposvár, Toponár posta', 46.390649998518434, 17.827809154987335);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1250, 'stop91Back', 'Kaposvár, Toponár Orci elágazás', 46.3942925677315, 17.833487391471863);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1251, 'stop91Back', 'Kaposvár, Toponári utca 182.', 46.401804483330140, 17.834061384201050);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1252, 'stop91Back', 'Kaposvár, Toponári utca 238.', 46.405344584373870, 17.835268378257750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1253, 'stop91Back', 'Kaposvár, Erdei F. u.', 46.396229375766644, 17.845348119735718);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1254, 'stop91Back', 'Kaposvár, Szabó P. u.', 46.392585085872410, 17.844530045986176);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1255, 'stop91Back', 'Kaposvár, Orci út 14.', 46.395408044363904, 17.841429412364960);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1256, 'stop91Back', 'Kaposvár, Répáspuszta', 46.429838000000000, 17.840512000000000);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1257, 'stop91Back', 'Kaposvár, Kenyérgyár u. 1.', 46.362879676470875, 17.816699445247650);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1258, 'stop91Back', 'Kaposvár, Kenyérgyár u. 3.', 46.364739861392500, 17.818161249160767);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1259, 'stop91Back', 'Kaposvár, Dombóvári u. 4.', 46.363947670980195, 17.833637595176697);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1260, 'stop91Back', 'Kaposvári Egyetem forduló', 46.384574192377820, 17.826073765754700);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1261, 'stop91Back', 'Kaposvár, Virág u.', 46.358487167595270, 17.803862392902374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1262, 'stop91Back', 'Kaposvár, Pázmány P. u. 1.', 46.360912068665720, 17.801375985145570);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1263, 'stop91Back', 'Kaposvár, Vöröstelek u.', 46.364267880170260, 17.799975872039795);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1264, 'stop91Back', 'Kaposvár, Hegyi u.', 46.367684561948180, 17.797811329364777);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1265, 'stop91Back', 'Kaposvár, Tallián Gy. u. 4.', 46.357163607490010, 17.797277569770813);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1266, 'stop91Back', 'Kaposvár, Kórház', 46.360229034900560, 17.797264158725740);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1267, 'stop91Back', 'Kaposvár, Tallián Gy. u. 56.', 46.362713089656480, 17.797266840934753);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1268, 'stop91Back', 'Kaposvár, Tallián Gy. u. 82.', 46.364639912768110, 17.797229290008545);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1269, 'stop91Back', 'Kaposvár, ÁNTSZ', 46.365172969985040, 17.789059281349182);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1270, 'stop91Back', 'Kaposvár, Rendőrség', 46.364528858526550, 17.793779969215393);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1271, 'stop91Back', 'Kaposvár, Szent Imre utca 29.', 46.361678389067265, 17.793796062469482);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1272, 'stop91Back', 'Kaposvár, Szent Imre utca 13.', 46.360230885952110, 17.793844342231750);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1273, 'stop91Back', 'Kaposvár, Széchenyi tér', 46.356919254426460, 17.794136703014374);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1274, 'stop91Back', 'Kaposvár, Zárda u.', 46.358837026377685, 17.787715494632720);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1275, 'stop91Back', 'Kaposvár, Honvéd u.', 46.363140661458800, 17.787967622280120);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1276, 'stop91Back', 'Kaposvár, Arany János tér', 46.366823933639840, 17.788404822349550);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1277, 'stop91Back', 'Kaposvár, Losonc-köz', 46.370183083435110, 17.787884473800660);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1278, 'stop91Back', 'Kaposvár, Brassó u.', 46.372092987227674, 17.787409722805023);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1279, 'stop91Back', 'Kaposvár, Nagyszeben u.', 46.373155249773944, 17.787109315395355);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1280, 'stop91Back', 'Kaposvár, Somssich P. u.', 46.360545563804600, 17.789102196693420);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1281, 'stop91Back', 'Kaposvár, Pázmány P. u.', 46.365032302613560, 17.799077332019806);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1282, 'stop91Back', 'Kaposvár, Kisgát', 46.365048960610670, 17.808749377727510);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1283, 'stop91Back', 'Kaposvár, Arany János utca', 46.366792469552290, 17.784512937068940);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1284, 'stop91Back', 'Kaposvár, Rózsa utca', 46.345850025674650, 17.778743505477905);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1285, 'stop91Back', 'Kaposvár, Corso', 46.355392023023086, 17.785899639129640);
+INSERT INTO helyibusz (id, option, name, lat, lng) VALUES (1286, 'stop91Back', 'Kaposvár, Rákóczi tér', 46.353616, 17.794872);
