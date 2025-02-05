@@ -1,0 +1,10 @@
+CREATE TABLE helyibusz (
+    id INT AUTO_INCREMENT,
+    option VARCHAR(20) NOT NULL COMMENT 'Járat azonosító (pl. stop12, stop12Back)',
+    name VARCHAR(100) NOT NULL COMMENT 'Megálló neve',
+    lat DECIMAL(10,8) NOT NULL COMMENT 'Szélességi koordináta',
+    lng DECIMAL(11,8) NOT NULL COMMENT 'Hosszúsági koordináta',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT 'Létrehozás időpontja',
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Módosítás időpontja',
+    PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_hungarian_ci;
